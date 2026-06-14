@@ -86,3 +86,5 @@ Busco una posición como **Frontend Developer Junior**, donde pueda:
 ---
 
 ✨ Gracias por visitar mi perfil.
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dafne-nahir" data-version="v1
